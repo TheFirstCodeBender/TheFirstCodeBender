@@ -21,21 +21,21 @@
     
 </div>
  
-#### "Don't just work hard, not just smart either... But rather do both! 💪🏾"
+#### "Don't just work hard, not just smart either... But rather do both! 💪🏾🤓"
  <div align="left"> 
  <h3>About Me 🧑🏾‍💻  </h3>
 
 - 🤔 &nbsp; Creating solutions to monotonous tasks and tinkering with IoT.
 
-- 🎓 &nbsp; I’m currently Self taught and am learning from Udemy, ZTM, freecodecamp and anyone reliable and smarter than me in a current subject!
+- 🎓 &nbsp; I’m currently Self taught and am learning from Udemy, ZTM, freecodecamp and anyone reliable and smarter than me in the current subject!
 
-- 🌱 &nbsp; I’m constantly learning and improving my skills in Python and Web Development. 👨‍💻
+- 🌱 &nbsp; I’m constantly learning and improving my skills as a developer. 👨🏾‍💻
 
-- ✍️ &nbsp; In my free time I read self development books and practice martial arts as a hobby. 🥋🥊
+- ✍️ &nbsp; In my free time I read self development books, learn new things, and practice martial arts as a hobby. 🥋🥊
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java
+- 💻 &nbsp; Python 
 
 - 🌐 &nbsp; HTML | CSS | JavaScript
 
