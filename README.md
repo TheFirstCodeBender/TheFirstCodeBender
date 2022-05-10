@@ -20,7 +20,7 @@
     
 </div>
  
-#### "Don't just work hard, not just smart either... But rather do both! 💪🏾🤓"
+#### "Don't just work hard, not just smart either... But rather do both! 💯"
  <div align="left"> 
  <h3>About Me 🧑🏾‍💻  </h3>
 
