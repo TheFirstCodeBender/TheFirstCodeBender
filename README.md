@@ -24,7 +24,7 @@
  <div align="left"> 
  <h3>About Me 🧑🏾‍💻  </h3>
 
-- 🤔 &nbsp; Right now im really interested in contributing to open source that I find interesting or can learn useful information from.
+- 🤔 &nbsp; Right now im really interested in contributing to Open Source Projects that I find interesting or can learn useful skills from.
 
 - 🎓 &nbsp; I’m currently Self taught and am learning from Udemy, ZTM, freecodecamp and anyone reliable and smarter than me in the current subject!
 
