@@ -36,7 +36,7 @@
 
 - 💻 &nbsp; Python 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript
+- 🌐 &nbsp; HTML | CSS | JavaScript | React.js
 
 <!-- - 🛢 &nbsp;  -->
 
@@ -44,5 +44,5 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; React.js 
+- 🔧 &nbsp; Node.js | Express.js | PostgreSQL | MongoDB | React Native | Machine Learning
  </div>
