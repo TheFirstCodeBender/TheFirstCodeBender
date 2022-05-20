@@ -44,5 +44,5 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; React.js | React Native | Django | MySQL | Node.js | Clean Architecture | Machine Learning
+- 🔧 &nbsp; React.js 
  </div>
