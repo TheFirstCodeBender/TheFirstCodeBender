@@ -7,8 +7,7 @@
 <div>
   <a href="https://github.com/PrinceNwaonicha">
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=PrinceNwaonicha&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=90,00DBDE,FC00FF" />
-  <img img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceNwaonicha&layout=compact&bg_color=90,00DBDE,FC00FF" />
-    <img height="250em"  width = "842" align="center" src="[https://www.linkpicture.com/view.php?img=LPic628d5a0f2e3871363743497](https://www.linkpicture.com/q/BMO.gif)" />
+  <img img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceNwaonicha&layout=compact&bg_color=90,00DBDE,FC00FF" />   
 </div>
   
 <div  align="center"> 
