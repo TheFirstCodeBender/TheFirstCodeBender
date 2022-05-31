@@ -39,7 +39,7 @@
 
 - 🛢 &nbsp; PostgreSQL
 
-- 🔧 &nbsp; Git | Github
+- 🔧 &nbsp; Git | Github | Heroku
 
 <h3>🛠 To Learn</h3>
 
