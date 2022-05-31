@@ -33,15 +33,15 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python 
+- 💻 &nbsp; Python | Express.js | Node.js
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | React.js
 
-<!-- - 🛢 &nbsp;  -->
+- 🛢 &nbsp; PostgreSQL
 
 - 🔧 &nbsp; Git | Github
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; Node.js | Express.js | PostgreSQL | MongoDB | React Native | Machine Learning
+- 🔧 &nbsp; | MongoDB | React Native | Machine Learning
  </div>
