@@ -43,5 +43,5 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; | MongoDB | React Native | Machine Learning
+- 🔧 &nbsp; MongoDB | React Native | Machine Learning
  </div>
