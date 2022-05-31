@@ -33,13 +33,13 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Express.js | Node.js
+- 💻 &nbsp; Python | Express.js? | Node.js
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | React.js
 
 - 🛢 &nbsp; PostgreSQL
 
-- 🔧 &nbsp; Git | Github | Heroku
+- 🔧 &nbsp; Git | Github | Heroku?
 
 <h3>🛠 To Learn</h3>
 
