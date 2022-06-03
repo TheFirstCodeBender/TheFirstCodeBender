@@ -1,8 +1,9 @@
-
+<p align="center">
+  <img src="https://github.com/PrinceNwaonicha/PrinceNwaonicha/blob/main/images/BMO.gif">
+</p>
 <h1 align="center">
-  <a href="PrinceNwaonicha.github.io">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+✌🏽;This+is+P.C....;Nice+to+meet+you!&center=true&size=30">
-  </a>
+  
 </h1>
 <div>
   <a href="https://github.com/PrinceNwaonicha">
@@ -19,7 +20,7 @@
     
 </div>
  
-#### "Don't just work hard, not just smart either... But rather do both! 💯"
+#### "Work Efficient And Always Reasses Your Paradigms! 🐱‍💻"
  <div align="left"> 
  <h3>About Me 🧑🏾‍💻  </h3>
 
@@ -41,5 +42,5 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; MongoDB | React Native | Machine Learning
+- 🔧 &nbsp; MongoDB | React Native | Machine Learning ![This is an image](https://github.com/PrinceNwaonicha/PrinceNwaonicha/blob/main/images/OctoMan.gif)
  </div>
