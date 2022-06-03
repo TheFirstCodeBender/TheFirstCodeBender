@@ -25,8 +25,6 @@
 
 - 🤔 &nbsp; Right now im really interested in contributing to Open Source Projects that I find interesting or can learn useful skills from.
 
-- 🎓 &nbsp; I’m currently Self taught and am learning from Udemy, ZTM, freecodecamp and anyone reliable and smarter than me in the current subject!
-
 - 🌱 &nbsp; I’m constantly learning and improving my skills as a developer. 👨🏾‍💻
 
 - ✍️ &nbsp; In my free time I read self development books, learn new things, and practice martial arts as a hobby. 🥋🥊
