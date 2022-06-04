@@ -33,7 +33,7 @@
 
 <h3>🛠 Tech Stack</h3><img align="right" width="200" height="200" src="https://github.com/PrinceNwaonicha/PrinceNwaonicha/blob/main/images/OctoMan.gif">
 
-- 💻 &nbsp; Python | Express.js | Node.js
+- 💻 &nbsp; Python | Node.js
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | React.js
 
