@@ -35,7 +35,7 @@
 
 - 💻 &nbsp; Python | Node.js
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | React.js
+- 🌐 &nbsp; HTML | CSS | JavaScript | React
 
 - 🛢 &nbsp; PostgreSQL
 
