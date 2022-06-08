@@ -6,9 +6,9 @@
   
 </h1>
 <div align ="center">
-  <a href="https://github.com/PrinceNwaonicha">
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=PrinceNwaonicha&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=90,00DBDE,FC00FF" />
-  <img img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceNwaonicha&layout=compact&bg_color=90,00DBDE,FC00FF" />   
+  <a href="https://github.com/TheFirstCodeBender">
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=TheFirstCodeBender&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=90,00DBDE,FC00FF" />
+  <img img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheFirstCodeBender&layout=compact&bg_color=90,00DBDE,FC00FF" />   
 
   
 
@@ -31,7 +31,7 @@
 
 - ✍️ &nbsp; In my free time I read self development books, learn new things, and practice martial arts as a hobby. 🥋🥊
 
-<h3>🛠 Tech Stack</h3><img align="right" width="200" height="200" src="https://github.com/PrinceNwaonicha/PrinceNwaonicha/blob/main/images/OctoMan.gif">
+<h3>🛠 Tech Stack</h3><img align="right" width="200" height="200" src="https://github.com/TheFirstCodeBender/TheFirstCodeBender/blob/main/images/OctoMan.gif">
 
 - 💻 &nbsp; Python | Node.js
 
