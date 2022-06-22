@@ -44,7 +44,7 @@
   
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; Foundational Skills | MongoDB | React Native | Machine Learning
+- 🔧 &nbsp; Data Structures | Foundational Skills | MongoDB | React Native | Machine Learning
     </div>
  
   
