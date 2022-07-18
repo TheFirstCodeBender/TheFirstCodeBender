@@ -27,7 +27,7 @@
 
 - 🤔 &nbsp; Right now im really interested in contributing to Open Source Projects that I find interesting or can learn useful skills from.
 
-- 🌱 &nbsp; Currently Learning: Data Structures & Algorithms, Senior Dev fundamentals, Advanced Javascript. 👨🏾‍💻
+- 🌱 &nbsp; Currently Learning: Data Structures & Algorithms. 👨🏾‍💻
 
 - ✍️ &nbsp; In my free time I read self development books, learn new things, and practice martial arts as a hobby. 🥋🥊
 
