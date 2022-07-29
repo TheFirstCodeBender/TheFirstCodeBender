@@ -20,7 +20,7 @@
     
 
  
-#### "Work Efficient And Always Reassess Your Paradigms! 🐱‍💻"
+#### "Achieving my goals, to achieve my vision. 🐱‍🏍"
 </div>
    <div align="left">
  <h3>About Me 🧑🏾‍💻  </h3>
