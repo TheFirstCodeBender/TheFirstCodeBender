@@ -20,7 +20,7 @@
     
 
  
-#### "Achieving my goals, to achieve my vision. 🐱‍🏍"
+#### " Learning is a treasure that will follow its owner everywhere. 🐱‍🏍"
 </div>
    <div align="left">
  <h3>About Me 🧑🏾‍💻  </h3>
