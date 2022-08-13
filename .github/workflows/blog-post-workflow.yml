@@ -13,7 +13,7 @@ jobs:
       - name: GitHub Readme Blog Post Action
         uses: ErrorGamer2000/github-readme-blog-post-action@v1
         with:
-          feed_urls: "https://dev.to/feed/princenwaonicha"
+          feed_urls: "https://eachoneteachone.hashnode.dev/rss.xml"
       - name: Commit changed files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
