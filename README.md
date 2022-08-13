@@ -53,6 +53,6 @@
 <a href="https://leetcode.com/TheFirstCodeBender/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="TheFirstCodeBender" height="30" width="40" /></a>
 </p>
 <h3 align="left">Blog Posts 📝</h3>
-<!-- blog-post-list:start -->
-<!-- blog-post-list:end -->
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
 
