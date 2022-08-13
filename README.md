@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/PrinceNwaonicha/PrinceNwaonicha/blob/main/images/Coding.gif">
+  <img width="600" height="350" src="https://github.com/PrinceNwaonicha/PrinceNwaonicha/blob/main/images/Coding.gif">
 </p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+🤙🏾;This+is+P.C....;Nice+to+meet+you!&center=true&size=30">
@@ -46,5 +46,12 @@
 
 - 🔧 &nbsp; Data Structures | Foundational Skills | MongoDB | React Native | Machine Learning
     </div>
- 
-  
+
+<h3 align="left">Socials 📣</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/princenwaonicha/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  height="30" width="40"/></a>
+<a href="https://leetcode.com/TheFirstCodeBender/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="TheFirstCodeBender" height="30" width="40" /></a>
+</p>
+<h3 align="left">Blog Posts 📝</h3>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END --> 
