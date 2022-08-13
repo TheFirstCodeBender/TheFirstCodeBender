@@ -52,8 +52,7 @@
 <a href="https://www.linkedin.com/in/princenwaonicha/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  height="30" width="40"/></a>
 <a href="https://leetcode.com/TheFirstCodeBender/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="TheFirstCodeBender" height="30" width="40" /></a>
 </p>
-<h3 align="left">Blog Posts 📚</h3>
-<p align="left">
+<h3 align="center">Blog Posts 📚</h3>
 <!-- BLOG-POST-LIST:START -->
 
 - [A Simple Introduction to Arrays In JavaScript](https://dev.to/princenwaonicha/a-simple-introduction-to-arrays-in-javascript-46no)
@@ -62,4 +61,4 @@
 - [&quot;A journey of a thousand miles begins with a single step&quot; - Lao Tzu](https://dev.to/princenwaonicha/a-journey-of-a-thousand-miles-begins-with-a-single-step-lao-tzu-3bla)
 
 <!-- BLOG-POST-LIST:END -->
-</p>
+
