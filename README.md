@@ -54,6 +54,19 @@
 </p>
 <h3 align="center">Blog Posts 📚</h3>
 <!-- blog-post-list:start -->
+## DEV Community\: PC
+
+The latest articles on DEV Community by PC \(@princenwaonicha\).
+
+[Read more](https://dev.to/princenwaonicha)
+> Last updated: Saturday, August 13, 2022 at 9:52:35 PM
+
+> Showing 4 of 4 posts.
+
+[![A Simple Introduction to Arrays In JavaScript](https://raw.githubusercontent.com/TheFirstCodeBender/TheFirstCodeBender/main/blog-post-list-output/DEV_Community__PC/A_Simple_Introduction_to_Arrays_In_JavaScript.svg)](https://dev.to/princenwaonicha/a-simple-introduction-to-arrays-in-javascript-46no)
+[![Learning How To Learn Is One of The Most Valuable Skills and 3 Ways to Learn More Effectively.](https://raw.githubusercontent.com/TheFirstCodeBender/TheFirstCodeBender/main/blog-post-list-output/DEV_Community__PC/Learning_How_To_Learn_Is_One_of_The_Most_Valuable_Skills_and_3_Ways_to_Learn_More_Effectively..svg)](https://dev.to/princenwaonicha/learning-how-to-learn-is-one-of-the-most-valuable-skills-and-3-ways-to-learn-more-effectively-39mo)
+[![The Big O](https://raw.githubusercontent.com/TheFirstCodeBender/TheFirstCodeBender/main/blog-post-list-output/DEV_Community__PC/The_Big_O.svg)](https://dev.to/princenwaonicha/the-big-o-4b6p)
+[!["A journey of a thousand miles begins with a single step" - Lao Tzu](https://raw.githubusercontent.com/TheFirstCodeBender/TheFirstCodeBender/main/blog-post-list-output/DEV_Community__PC/_A_journey_of_a_thousand_miles_begins_with_a_single_step__-_Lao_Tzu.svg)](https://dev.to/princenwaonicha/a-journey-of-a-thousand-miles-begins-with-a-single-step-lao-tzu-3bla)
 
 
 <!-- blog-post-list:end -->
