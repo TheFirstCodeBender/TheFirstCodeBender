@@ -52,7 +52,7 @@
 <a href="https://www.linkedin.com/in/princenwaonicha/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  height="30" width="40"/></a>
 <a href="https://leetcode.com/TheFirstCodeBender/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="TheFirstCodeBender" height="30" width="40" /></a>
 </p>
-<h3 align="left">Blog Posts 📝</h3>
-<!--START_SECTION:feed-->
-<!--END_SECTION:feed-->
+<h3 align="left">Blog Posts 📚</h3>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
