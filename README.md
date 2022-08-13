@@ -54,11 +54,9 @@
 </p>
 <h3 align="center">Blog Posts 📚</h3>
 <!-- BLOG-POST-LIST:START -->
-
 - [A Simple Introduction to Arrays In JavaScript](https://dev.to/princenwaonicha/a-simple-introduction-to-arrays-in-javascript-46no)
 - [Learning How To Learn Is One of The Most Valuable Skills and 3 Ways to Learn More Effectively.](https://dev.to/princenwaonicha/learning-how-to-learn-is-one-of-the-most-valuable-skills-and-3-ways-to-learn-more-effectively-39mo)
 - [The Big O](https://dev.to/princenwaonicha/the-big-o-4b6p)
 - [&quot;A journey of a thousand miles begins with a single step&quot; - Lao Tzu](https://dev.to/princenwaonicha/a-journey-of-a-thousand-miles-begins-with-a-single-step-lao-tzu-3bla)
-
 <!-- BLOG-POST-LIST:END -->
 
