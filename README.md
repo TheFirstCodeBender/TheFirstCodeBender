@@ -54,12 +54,11 @@
 </p>
 <h3 align="center">Blog Posts 📚</h3>
 <!-- blog-post-list:start -->
+
 ## EachOneTeachOne Weekly
 
-EachOneTeachOne Weekly
-
 [Read more](https://eachoneteachone.hashnode.dev)
-> Last updated: Wednesday, August 17, 2022 at 11:50:53 PM
+> Last updated: Tuesday, August 16, 2022 at 7:04:41 PM
 
 > Showing 4 of 4 posts.
 
