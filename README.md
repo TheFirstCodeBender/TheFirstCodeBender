@@ -54,19 +54,19 @@
 </p>
 <h3 align="center">Blog Posts 📚</h3>
 <!-- blog-post-list:start -->
-## EachOneTeachOne Weekly
+## EachOneTeachOne Monthly
 
-EachOneTeachOne Weekly
+EachOneTeachOne Monthly
 
 [Read more](https://eachoneteachone.hashnode.dev)
-> Last updated: Thursday, September 22, 2022 at 3:36:28 AM
+> Last updated: Thursday, September 29, 2022 at 3:42:10 AM
 
 > Showing 4 of 4 posts.
 
-[![A Simple Introduction to Arrays In JavaScript](https://raw.githubusercontent.com/TheFirstCodeBender/TheFirstCodeBender/main/blog-post-list-output/EachOneTeachOne_Weekly/A_Simple_Introduction_to_Arrays_In_JavaScript.svg)](https://eachoneteachone.hashnode.dev/a-simple-introduction-to-arrays-in-javascript)
-[![Learn how to learn efficiently for Software Development](https://raw.githubusercontent.com/TheFirstCodeBender/TheFirstCodeBender/main/blog-post-list-output/EachOneTeachOne_Weekly/Learn_how_to_learn_efficiently_for_Software_Development.svg)](https://eachoneteachone.hashnode.dev/learning-how-to-learn-is-one-of-the-most-valuable-skills-and-3-ways-to-learn-more-effectively)
-[![The Big O](https://raw.githubusercontent.com/TheFirstCodeBender/TheFirstCodeBender/main/blog-post-list-output/EachOneTeachOne_Weekly/The_Big_O.svg)](https://eachoneteachone.hashnode.dev/dsa-series-the-big-o)
-[!["A journey of a thousand miles begins with a single step" - Lao Tzu](https://raw.githubusercontent.com/TheFirstCodeBender/TheFirstCodeBender/main/blog-post-list-output/EachOneTeachOne_Weekly/_A_journey_of_a_thousand_miles_begins_with_a_single_step__-_Lao_Tzu.svg)](https://eachoneteachone.hashnode.dev/a-journey-of-a-thousand-miles-begins-with-a-single-step-lao-tzu)
+[![A Simple Introduction to Arrays In JavaScript](https://raw.githubusercontent.com/TheFirstCodeBender/TheFirstCodeBender/main/blog-post-list-output/EachOneTeachOne_Monthly/A_Simple_Introduction_to_Arrays_In_JavaScript.svg)](https://eachoneteachone.hashnode.dev/a-simple-introduction-to-arrays-in-javascript)
+[![Learn how to learn efficiently for Software Development](https://raw.githubusercontent.com/TheFirstCodeBender/TheFirstCodeBender/main/blog-post-list-output/EachOneTeachOne_Monthly/Learn_how_to_learn_efficiently_for_Software_Development.svg)](https://eachoneteachone.hashnode.dev/learning-how-to-learn-is-one-of-the-most-valuable-skills-and-3-ways-to-learn-more-effectively)
+[![The Big O](https://raw.githubusercontent.com/TheFirstCodeBender/TheFirstCodeBender/main/blog-post-list-output/EachOneTeachOne_Monthly/The_Big_O.svg)](https://eachoneteachone.hashnode.dev/dsa-series-the-big-o)
+[!["A journey of a thousand miles begins with a single step" - Lao Tzu](https://raw.githubusercontent.com/TheFirstCodeBender/TheFirstCodeBender/main/blog-post-list-output/EachOneTeachOne_Monthly/_A_journey_of_a_thousand_miles_begins_with_a_single_step__-_Lao_Tzu.svg)](https://eachoneteachone.hashnode.dev/a-journey-of-a-thousand-miles-begins-with-a-single-step-lao-tzu)
 
 
 <!-- blog-post-list:end -->
