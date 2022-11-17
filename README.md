@@ -25,15 +25,15 @@
    <div align="left">
  <h3>About Me 🧑🏾‍💻  </h3>
 
-- 🤔 &nbsp; Right now im really interested in contributing to Open Source Projects that I find interesting or can learn useful skills from.
+- 🤔 &nbsp; Right now im focused on learning Java for my Job. 🎯
 
-- 🌱 &nbsp; Currently Learning: Data Structures & Algorithms. 👨🏾‍💻
+- 🌱 &nbsp; Currently Learning: Becoming mor proficient in Data Structures & Algorithms especially Dynamic Programming. 👨🏾‍💻
 
 - ✍️ &nbsp; In my free time I read self development books, learn new things, and practice martial arts as a hobby. 🥋🥊
 
 <h3>🛠 Tech Stack</h3><img align="right" width="200" height="200" src="https://github.com/TheFirstCodeBender/TheFirstCodeBender/blob/main/images/OctoMan.gif">
 
-- 💻 &nbsp; Python | Node.js
+- 💻 &nbsp; Python | Node.js | Java
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | React
 
@@ -44,7 +44,7 @@
   
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; Data Structures | Foundational Skills | MongoDB | React Native | Machine Learning
+- 🔧 &nbsp; Machine Learning |
     </div>
 
 <h3 align="left">Socials 📣</h3>
@@ -54,9 +54,8 @@
 </p>
 <h3 align="center">Blog Posts 📚</h3>
 <!-- blog-post-list:start -->
+    
 ## EachOneTeachOne Monthly
-
-EachOneTeachOne Monthly
 
 [Read more](https://eachoneteachone.hashnode.dev)
 > Last updated: Tuesday, November 15, 2022 at 2:50:21 AM
