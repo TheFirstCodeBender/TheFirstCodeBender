@@ -27,7 +27,7 @@
 
 - 🤔 &nbsp; Right now im focused on learning Java for my Job. 🎯
 
-- 🌱 &nbsp; Currently Learning: Becoming more proficient in Data Structures & Algorithms especially Dynamic Programming because I find its a really useful skill. 👨🏾‍💻
+- 🌱 &nbsp; Currently Learning:  Machine Learning | Data Science | Mobile Development👨🏾‍💻
 
 - ✍️ &nbsp; In my free time I read self development books, learn new things, and practice martial arts as a hobby. 🥋🥊
 
@@ -44,7 +44,7 @@
   
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; Machine Learning |
+- 🔧 &nbsp; A lot of stuff...
     </div>
 
 <h3 align="left">Socials 📣</h3>
